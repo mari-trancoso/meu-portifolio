@@ -21,7 +21,7 @@ export const ContatoPagina = () => {
                     </span>
                     <span>
                         <p>Linkedin</p>
-                        <a href="https://www.linkedin.com/in/mariana-negrao-trancoso-a17921b9/">
+                        <a href="https://www.linkedin.com/in/mariananegraotrancoso/">
                             <img src={imagemLinkedin} alt="icone Linkedin"/>
                         </a>
                     </span>
