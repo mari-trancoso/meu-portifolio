@@ -26,7 +26,7 @@ export const Footer = () => {
                 
                 <SecaoIcones>
                     <p>Feito por Mariana Negrão Trancoso 2022</p>
-                    <a href="https://www.linkedin.com/in/mariana-negrao-trancoso-a17921b9/">
+                    <a href="https://www.linkedin.com/in/mariananegraotrancoso/">
                         <img src={imagemLinkedin} alt="icone Linkedin"/>
                     </a>
                     <a href="https://github.com/mari-trancoso">
